@@ -3,8 +3,8 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 
 const Header = () => {
     return (
-        <div>
-            <Navbar className="py-1" bg="dark" variant="dark">
+        <div className="mb-5">
+            <Navbar className="py-4" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand href="#home">Learn Japanese</Navbar.Brand>
                     <Nav className="mx-auto">
