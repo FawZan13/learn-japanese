@@ -26,25 +26,25 @@
     {
         "key": "05",
         "name": "Katakana Level 3",
-        "price": "$135",
-        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+        "price": "$140",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEYY1hSnmDAz0xNfXe4u1kQ76Ya94XPNitg&usqp=CAU"
     },
     {
         "key": "06",
         "name": "Katakana Level 4",
-        "price": "$135",
-        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+        "price": "$145",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotz0NoUoI2E7KyLbcdkJ8MrYv1e5NyZ8dlQ&usqp=CAU"
     },
     {
         "key": "07",
         "name": "Kanji Level 1",
-        "price": "$135",
-        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+        "price": "$160",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRziFKJOR1u-kuQwp1DvafcD5G6apsi7qfv1w&usqp=CAU"
     },
     {
         "key": "08",
         "name": "Kanji Level 2",
-        "price": "$135",
-        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+        "price": "$165",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUNCY0IaRlkuj7kE3rSd6kic9Q836FYg36A&usqp=CAU"
     }
 ]
