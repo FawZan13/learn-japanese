@@ -3,7 +3,7 @@ import { Row } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Show from '../Show/Show';
-
+// services page
 const Services = () => {
     const [services, setServices] = useState([]);
     useEffect(() => {

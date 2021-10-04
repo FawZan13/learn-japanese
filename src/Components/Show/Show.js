@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-
+// show services section
 const Show = (props) => {
     const { name, price, img } = props.service;
     return (
