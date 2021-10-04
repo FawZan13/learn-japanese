@@ -10,7 +10,7 @@ const Show = (props) => {
                 <Card.Body>
                     <Card.Title><h3>{name}</h3></Card.Title>
                     <Card.Text>
-                        <h4>Price: {price}</h4>
+                        Price: {price}
                     </Card.Text>
                 </Card.Body>
             </Card>
