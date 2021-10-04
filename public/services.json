@@ -1,0 +1,50 @@
+[
+    {
+        "key": "01",
+        "name": "Hiragana Level 1",
+        "price": "$100",
+        "img": "https://omniglot.com/images/writing/hiragana.gif"
+    },
+    {
+        "key": "02",
+        "name": "Hiragana Level 2",
+        "price": "$120",
+        "img": "https://i.pinimg.com/originals/9e/c8/bc/9ec8bcb08af77cea56ff3265137539c9.jpg"
+    },
+    {
+        "key": "03",
+        "name": "Katakana Level 1",
+        "price": "$130",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVYodAq2hoWNp0-IbiLeHqnu6JMUtInw0Vw&usqp=CAU"
+    },
+    {
+        "key": "04",
+        "name": "Katakana Level 2",
+        "price": "$135",
+        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+    },
+    {
+        "key": "05",
+        "name": "Katakana Level 3",
+        "price": "$135",
+        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+    },
+    {
+        "key": "06",
+        "name": "Katakana Level 4",
+        "price": "$135",
+        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+    },
+    {
+        "key": "07",
+        "name": "Kanji Level 1",
+        "price": "$135",
+        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+    },
+    {
+        "key": "08",
+        "name": "Kanji Level 2",
+        "price": "$135",
+        "img": "https://st3.depositphotos.com/2485347/12797/v/950/depositphotos_127977042-stock-illustration-set-of-katakana-symbols.jpg"
+    }
+]
