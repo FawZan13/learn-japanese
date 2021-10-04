@@ -1,5 +1,5 @@
 #                                                        Learn Japanese
-###If you want to learn japanese then Learn Japanese is the perfect for you.
+###If you want to learn japanese then Learn Japanese is perfect for you.
 
 ## What we do:
 * We help you learn japanese from basic to fluent
